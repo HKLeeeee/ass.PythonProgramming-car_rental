@@ -2,6 +2,7 @@
 
 ### Car(name, True or False)
 True : 신차, False : 중고차를 의미합니다.
+
 <변수>
 max_fuel : 최대 주유량
 fuel_economy : 최대 연비
